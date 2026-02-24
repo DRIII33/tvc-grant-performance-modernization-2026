@@ -1,0 +1,601 @@
+grantee_id,county,program_type,reporting_month,veterans_served,benchmark_target,funds_expended
+G001,Tarrant,Transportation,2025-01-01,88,75,33578.62
+G001,Tarrant,Transportation,2025-02-01,84,75,30450.81
+G001,Tarrant,Transportation,2025-03-01,79,75,19173.66
+G001,Tarrant,Transportation,2025-04-01,84,75,25017.25
+G001,Tarrant,Transportation,2025-05-01,74,75,18184.15
+G001,Tarrant,Transportation,2025-06-01,86,75,18405.47
+G001,Tarrant,Transportation,2025-07-01,67,75,13428.8
+G001,Tarrant,Transportation,2025-08-01,93,75,27046.16
+G001,Tarrant,Transportation,2025-09-01,85,75,25593.87
+G001,Tarrant,Transportation,2025-10-01,81,75,31242.78
+G001,Tarrant,Transportation,2025-11-01,83,75,30719.71
+G001,Tarrant,Transportation,2025-12-01,83,75,14639.01
+G002,Travis,Transportation,2025-01-01,79,75,20076.07
+G002,Travis,Transportation,2025-02-01,92,75,16608.02
+G002,Travis,Transportation,2025-03-01,76,75,16570.51
+G002,Travis,Transportation,2025-04-01,84,75,20003.95
+G002,Travis,Transportation,2025-05-01,75,75,21264.18
+G002,Travis,Transportation,2025-06-01,80,75,17388.25
+G002,Travis,Transportation,2025-07-01,73,75,14942.45
+G002,Travis,Transportation,2025-08-01,81,75,13464.07
+G002,Travis,Transportation,2025-09-01,73,75,23657.55
+G002,Travis,Transportation,2025-10-01,86,75,34351.42
+G002,Travis,Transportation,2025-11-01,78,75,18428.89
+G002,Travis,Transportation,2025-12-01,83,75,23466.89
+G003,Bexar,Mental Health,2025-01-01,79,75,23555.76
+G003,Bexar,Mental Health,2025-02-01,65,75,13685.1
+G003,Bexar,Mental Health,2025-03-01,89,75,35231.16
+G003,Bexar,Mental Health,2025-04-01,77,75,26918.14
+G003,Bexar,Mental Health,2025-05-01,69,75,22352.77
+G003,Bexar,Mental Health,2025-06-01,91,75,18660.48
+G003,Bexar,Mental Health,2025-07-01,86,75,20396.32
+G003,Bexar,Mental Health,2025-08-01,77,75,27675.92
+G003,Bexar,Mental Health,2025-09-01,85,75,17192.77
+G003,Bexar,Mental Health,2025-10-01,81,75,16778.14
+G003,Bexar,Mental Health,2025-11-01,80,75,31925.07
+G003,Bexar,Mental Health,2025-12-01,92,75,20214.04
+G004,Travis,Transportation,2025-01-01,85,75,30946.89
+G004,Travis,Transportation,2025-02-01,77,75,27930.37
+G004,Travis,Transportation,2025-03-01,97,75,30772.97
+G004,Travis,Transportation,2025-04-01,82,75,31572.74
+G004,Travis,Transportation,2025-05-01,75,75,19657.95
+G004,Travis,Transportation,2025-06-01,70,75,23522.98
+G004,Travis,Transportation,2025-07-01,86,75,24564.61
+G004,Travis,Transportation,2025-08-01,80,75,17009.24
+G004,Travis,Transportation,2025-09-01,80,75,20687.89
+G004,Travis,Transportation,2025-10-01,76,75,24109.56
+G004,Travis,Transportation,2025-11-01,91,75,25006.65
+G004,Travis,Transportation,2025-12-01,82,75,13193.88
+G005,Travis,Transportation,2025-01-01,74,75,24932.8
+G005,Travis,Transportation,2025-02-01,101,75,29107.32
+G005,Travis,Transportation,2025-03-01,64,75,12654.58
+G005,Travis,Transportation,2025-04-01,74,75,17994.71
+G005,Travis,Transportation,2025-05-01,77,75,29452.82
+G005,Travis,Transportation,2025-06-01,63,75,20020.51
+G005,Travis,Transportation,2025-07-01,76,75,17010.52
+G005,Travis,Transportation,2025-08-01,75,75,13811.65
+G005,Travis,Transportation,2025-09-01,86,75,19274.97
+G005,Travis,Transportation,2025-10-01,78,75,23624.52
+G005,Travis,Transportation,2025-11-01,65,75,19953.28
+G005,Travis,Transportation,2025-12-01,71,75,17692.91
+G006,Dallas,Financial Assistance,2025-01-01,78,75,18098.98
+G006,Dallas,Financial Assistance,2025-02-01,73,75,16484.6
+G006,Dallas,Financial Assistance,2025-03-01,81,75,28914.35
+G006,Dallas,Financial Assistance,2025-04-01,79,75,15689.01
+G006,Dallas,Financial Assistance,2025-05-01,78,75,14397.89
+G006,Dallas,Financial Assistance,2025-06-01,86,75,21474.65
+G006,Dallas,Financial Assistance,2025-07-01,78,75,16591.78
+G006,Dallas,Financial Assistance,2025-08-01,71,75,18252.58
+G006,Dallas,Financial Assistance,2025-09-01,85,75,32198.29
+G006,Dallas,Financial Assistance,2025-10-01,78,75,13530.53
+G006,Dallas,Financial Assistance,2025-11-01,84,75,26399.34
+G006,Dallas,Financial Assistance,2025-12-01,78,75,12630.46
+G007,Bexar,Mental Health,2025-01-01,82,75,14763.38
+G007,Bexar,Mental Health,2025-02-01,76,75,13188.98
+G007,Bexar,Mental Health,2025-03-01,70,75,23858.88
+G007,Bexar,Mental Health,2025-04-01,89,75,23688.99
+G007,Bexar,Mental Health,2025-05-01,84,75,32532.06
+G007,Bexar,Mental Health,2025-06-01,93,75,14305.83
+G007,Bexar,Mental Health,2025-07-01,97,75,27629.9
+G007,Bexar,Mental Health,2025-08-01,85,75,32807.7
+G007,Bexar,Mental Health,2025-09-01,84,75,26820.54
+G007,Bexar,Mental Health,2025-10-01,82,75,28929.69
+G007,Bexar,Mental Health,2025-11-01,89,75,31604.5
+G007,Bexar,Mental Health,2025-12-01,84,75,18353.18
+G008,Bexar,Financial Assistance,2025-01-01,72,75,11501.34
+G008,Bexar,Financial Assistance,2025-02-01,83,75,26056.24
+G008,Bexar,Financial Assistance,2025-03-01,77,75,18107.02
+G008,Bexar,Financial Assistance,2025-04-01,73,75,23595.25
+G008,Bexar,Financial Assistance,2025-05-01,76,75,12144.54
+G008,Bexar,Financial Assistance,2025-06-01,78,75,22385.45
+G008,Bexar,Financial Assistance,2025-07-01,78,75,22930.53
+G008,Bexar,Financial Assistance,2025-08-01,86,75,18275.35
+G008,Bexar,Financial Assistance,2025-09-01,82,75,23818.27
+G008,Bexar,Financial Assistance,2025-10-01,73,75,24453.33
+G008,Bexar,Financial Assistance,2025-11-01,73,75,20701.48
+G008,Bexar,Financial Assistance,2025-12-01,80,75,17952.7
+G009,Bexar,Financial Assistance,2025-01-01,66,75,25715.93
+G009,Bexar,Financial Assistance,2025-02-01,90,75,35028.02
+G009,Bexar,Financial Assistance,2025-03-01,85,75,23226.8
+G009,Bexar,Financial Assistance,2025-04-01,65,75,19539.67
+G009,Bexar,Financial Assistance,2025-05-01,81,75,31310.44
+G009,Bexar,Financial Assistance,2025-06-01,88,75,33680.44
+G009,Bexar,Financial Assistance,2025-07-01,81,75,31765.2
+G009,Bexar,Financial Assistance,2025-08-01,85,75,31170.96
+G009,Bexar,Financial Assistance,2025-09-01,90,75,18507.97
+G009,Bexar,Financial Assistance,2025-10-01,77,75,14372.14
+G009,Bexar,Financial Assistance,2025-11-01,80,75,23626.11
+G009,Bexar,Financial Assistance,2025-12-01,91,75,19034.59
+G010,Travis,Financial Assistance,2025-01-01,94,75,22330.13
+G010,Travis,Financial Assistance,2025-02-01,86,75,21026.73
+G010,Travis,Financial Assistance,2025-03-01,85,75,19767.87
+G010,Travis,Financial Assistance,2025-04-01,78,75,19601.44
+G010,Travis,Financial Assistance,2025-05-01,82,75,28027.49
+G010,Travis,Financial Assistance,2025-06-01,89,75,28503.13
+G010,Travis,Financial Assistance,2025-07-01,73,75,19668.3
+G010,Travis,Financial Assistance,2025-08-01,65,75,16840.46
+G010,Travis,Financial Assistance,2025-09-01,81,75,13028.87
+G010,Travis,Financial Assistance,2025-10-01,73,75,12326.68
+G010,Travis,Financial Assistance,2025-11-01,70,75,15653.64
+G010,Travis,Financial Assistance,2025-12-01,77,75,29168.65
+G011,Tarrant,Financial Assistance,2025-01-01,102,75,25360.31
+G011,Tarrant,Financial Assistance,2025-02-01,67,75,12892.14
+G011,Tarrant,Financial Assistance,2025-03-01,84,75,17417.29
+G011,Tarrant,Financial Assistance,2025-04-01,73,75,15694.08
+G011,Tarrant,Financial Assistance,2025-05-01,79,75,17375.33
+G011,Tarrant,Financial Assistance,2025-06-01,78,75,16983.67
+G011,Tarrant,Financial Assistance,2025-07-01,68,75,26189.04
+G011,Tarrant,Financial Assistance,2025-08-01,78,75,29623.94
+G011,Tarrant,Financial Assistance,2025-09-01,65,75,18713.3
+G011,Tarrant,Financial Assistance,2025-10-01,70,75,24108.04
+G011,Tarrant,Financial Assistance,2025-11-01,77,75,19115.05
+G011,Tarrant,Financial Assistance,2025-12-01,90,75,14929.02
+G012,Bexar,Financial Assistance,2025-01-01,56,75,8591.41
+G012,Bexar,Financial Assistance,2025-02-01,64,75,18149.54
+G012,Bexar,Financial Assistance,2025-03-01,82,75,27820.16
+G012,Bexar,Financial Assistance,2025-04-01,77,75,15497.12
+G012,Bexar,Financial Assistance,2025-05-01,73,75,14731.9
+G012,Bexar,Financial Assistance,2025-06-01,92,75,14878.62
+G012,Bexar,Financial Assistance,2025-07-01,74,75,20316.06
+G012,Bexar,Financial Assistance,2025-08-01,79,75,17928.6
+G012,Bexar,Financial Assistance,2025-09-01,65,75,19336.78
+G012,Bexar,Financial Assistance,2025-10-01,79,75,27347.2
+G012,Bexar,Financial Assistance,2025-11-01,84,75,31566.17
+G012,Bexar,Financial Assistance,2025-12-01,83,75,23962.42
+G013,Travis,Financial Assistance,2025-01-01,66,75,18932.86
+G013,Travis,Financial Assistance,2025-02-01,79,75,17734.7
+G013,Travis,Financial Assistance,2025-03-01,81,75,28278.55
+G013,Travis,Financial Assistance,2025-04-01,79,75,27036.13
+G013,Travis,Financial Assistance,2025-05-01,63,75,19227.69
+G013,Travis,Financial Assistance,2025-06-01,76,75,22413.35
+G013,Travis,Financial Assistance,2025-07-01,76,75,20142.26
+G013,Travis,Financial Assistance,2025-08-01,82,75,26602.19
+G013,Travis,Financial Assistance,2025-09-01,71,75,17956.99
+G013,Travis,Financial Assistance,2025-10-01,92,75,36181.54
+G013,Travis,Financial Assistance,2025-11-01,83,75,29502.16
+G013,Travis,Financial Assistance,2025-12-01,76,75,12004.29
+G014,Dallas,Financial Assistance,2025-01-01,81,75,19358.83
+G014,Dallas,Financial Assistance,2025-02-01,93,75,21624.81
+G014,Dallas,Financial Assistance,2025-03-01,75,75,20271.48
+G014,Dallas,Financial Assistance,2025-04-01,85,75,16085.78
+G014,Dallas,Financial Assistance,2025-05-01,77,75,28264.8
+G014,Dallas,Financial Assistance,2025-06-01,65,75,25776.68
+G014,Dallas,Financial Assistance,2025-07-01,81,75,16931.36
+G014,Dallas,Financial Assistance,2025-08-01,87,75,28721.22
+G014,Dallas,Financial Assistance,2025-09-01,62,75,11363.31
+G014,Dallas,Financial Assistance,2025-10-01,85,75,28679.34
+G014,Dallas,Financial Assistance,2025-11-01,76,75,13392.51
+G014,Dallas,Financial Assistance,2025-12-01,86,75,25025.25
+G015,Tarrant,Mental Health,2025-01-01,90,75,25545.05
+G015,Tarrant,Mental Health,2025-02-01,72,75,19331.46
+G015,Tarrant,Mental Health,2025-03-01,76,75,20512.06
+G015,Tarrant,Mental Health,2025-04-01,82,75,23733.72
+G015,Tarrant,Mental Health,2025-05-01,82,75,20064.84
+G015,Tarrant,Mental Health,2025-06-01,76,75,22943.55
+G015,Tarrant,Mental Health,2025-07-01,73,75,16978.86
+G015,Tarrant,Mental Health,2025-08-01,97,75,20014.32
+G015,Tarrant,Mental Health,2025-09-01,76,75,27565.53
+G015,Tarrant,Mental Health,2025-10-01,65,75,10654.37
+G015,Tarrant,Mental Health,2025-11-01,90,75,13910.46
+G015,Tarrant,Mental Health,2025-12-01,93,75,35279.45
+G016,Dallas,Transportation,2025-01-01,80,75,28417.23
+G016,Dallas,Transportation,2025-02-01,86,75,23147.32
+G016,Dallas,Transportation,2025-03-01,90,75,35279.87
+G016,Dallas,Transportation,2025-04-01,86,75,28729.31
+G016,Dallas,Transportation,2025-05-01,81,75,27697.53
+G016,Dallas,Transportation,2025-06-01,65,75,24895.23
+G016,Dallas,Transportation,2025-07-01,75,75,18173.07
+G016,Dallas,Transportation,2025-08-01,79,75,22691.21
+G016,Dallas,Transportation,2025-09-01,71,75,12209.66
+G016,Dallas,Transportation,2025-10-01,69,75,12363.01
+G016,Dallas,Transportation,2025-11-01,79,75,27537.22
+G016,Dallas,Transportation,2025-12-01,67,75,22545.07
+G017,Tarrant,Financial Assistance,2025-01-01,78,75,31023.12
+G017,Tarrant,Financial Assistance,2025-02-01,71,75,27094.48
+G017,Tarrant,Financial Assistance,2025-03-01,86,75,29702.56
+G017,Tarrant,Financial Assistance,2025-04-01,90,75,31489.59
+G017,Tarrant,Financial Assistance,2025-05-01,90,75,18803.06
+G017,Tarrant,Financial Assistance,2025-06-01,83,75,19011.08
+G017,Tarrant,Financial Assistance,2025-07-01,82,75,21564.95
+G017,Tarrant,Financial Assistance,2025-08-01,83,75,21553.95
+G017,Tarrant,Financial Assistance,2025-09-01,82,75,20325.38
+G017,Tarrant,Financial Assistance,2025-10-01,81,75,16787.76
+G017,Tarrant,Financial Assistance,2025-11-01,81,75,18889.52
+G017,Tarrant,Financial Assistance,2025-12-01,86,75,16484.71
+G018,Travis,Financial Assistance,2025-01-01,92,75,30853.6
+G018,Travis,Financial Assistance,2025-02-01,87,75,29983.94
+G018,Travis,Financial Assistance,2025-03-01,69,75,22667.61
+G018,Travis,Financial Assistance,2025-04-01,80,75,14058.32
+G018,Travis,Financial Assistance,2025-05-01,81,75,21404.25
+G018,Travis,Financial Assistance,2025-06-01,83,75,23652.11
+G018,Travis,Financial Assistance,2025-07-01,80,75,27437.64
+G018,Travis,Financial Assistance,2025-08-01,82,75,24580.1
+G018,Travis,Financial Assistance,2025-09-01,76,75,19448.34
+G018,Travis,Financial Assistance,2025-10-01,74,75,27969.27
+G018,Travis,Financial Assistance,2025-11-01,69,75,14766.27
+G018,Travis,Financial Assistance,2025-12-01,86,75,15097.57
+G019,Harris,Financial Assistance,2025-01-01,95,75,14796.79
+G019,Harris,Financial Assistance,2025-02-01,84,75,20463.14
+G019,Harris,Financial Assistance,2025-03-01,63,75,11091.89
+G019,Harris,Financial Assistance,2025-04-01,68,75,13013.85
+G019,Harris,Financial Assistance,2025-05-01,71,75,16545.6
+G019,Harris,Financial Assistance,2025-06-01,75,75,22648.02
+G019,Harris,Financial Assistance,2025-07-01,77,75,15507.41
+G019,Harris,Financial Assistance,2025-08-01,88,75,15713.88
+G019,Harris,Financial Assistance,2025-09-01,78,75,29697.72
+G019,Harris,Financial Assistance,2025-10-01,79,75,29989.48
+G019,Harris,Financial Assistance,2025-11-01,82,75,31011.36
+G019,Harris,Financial Assistance,2025-12-01,73,75,13970.62
+G020,Tarrant,Financial Assistance,2025-01-01,88,75,18042.14
+G020,Tarrant,Financial Assistance,2025-02-01,72,75,28359.74
+G020,Tarrant,Financial Assistance,2025-03-01,79,75,28847.48
+G020,Tarrant,Financial Assistance,2025-04-01,81,75,18216.82
+G020,Tarrant,Financial Assistance,2025-05-01,75,75,19252.29
+G020,Tarrant,Financial Assistance,2025-06-01,89,75,23768.16
+G020,Tarrant,Financial Assistance,2025-07-01,83,75,29808.72
+G020,Tarrant,Financial Assistance,2025-08-01,82,75,26938.21
+G020,Tarrant,Financial Assistance,2025-09-01,81,75,21892.03
+G020,Tarrant,Financial Assistance,2025-10-01,80,75,14059.63
+G020,Tarrant,Financial Assistance,2025-11-01,76,75,25711.68
+G020,Tarrant,Financial Assistance,2025-12-01,74,75,20841.7
+G021,Dallas,Financial Assistance,2025-01-01,78,75,16650.83
+G021,Dallas,Financial Assistance,2025-02-01,71,75,21212.12
+G021,Dallas,Financial Assistance,2025-03-01,76,75,28261.75
+G021,Dallas,Financial Assistance,2025-04-01,81,75,28457.63
+G021,Dallas,Financial Assistance,2025-05-01,99,75,24908.21
+G021,Dallas,Financial Assistance,2025-06-01,75,75,23123.26
+G021,Dallas,Financial Assistance,2025-07-01,86,75,15539.7
+G021,Dallas,Financial Assistance,2025-08-01,92,75,29990.76
+G021,Dallas,Financial Assistance,2025-09-01,94,75,21992.85
+G021,Dallas,Financial Assistance,2025-10-01,90,75,14270.13
+G021,Dallas,Financial Assistance,2025-11-01,90,75,30911.28
+G021,Dallas,Financial Assistance,2025-12-01,76,75,15570.7
+G022,Travis,Financial Assistance,2025-01-01,67,75,26554.9
+G022,Travis,Financial Assistance,2025-02-01,79,75,21424.37
+G022,Travis,Financial Assistance,2025-03-01,80,75,25976.92
+G022,Travis,Financial Assistance,2025-04-01,77,75,23967.29
+G022,Travis,Financial Assistance,2025-05-01,78,75,29261.16
+G022,Travis,Financial Assistance,2025-06-01,85,75,30229.91
+G022,Travis,Financial Assistance,2025-07-01,81,75,22236.34
+G022,Travis,Financial Assistance,2025-08-01,63,75,17285.07
+G022,Travis,Financial Assistance,2025-09-01,86,75,15910.4
+G022,Travis,Financial Assistance,2025-10-01,73,75,24312.37
+G022,Travis,Financial Assistance,2025-11-01,73,75,19970.5
+G022,Travis,Financial Assistance,2025-12-01,82,75,20589.82
+G023,Tarrant,Transportation,2025-01-01,88,75,20985.17
+G023,Tarrant,Transportation,2025-02-01,102,75,17603.59
+G023,Tarrant,Transportation,2025-03-01,88,75,31615.74
+G023,Tarrant,Transportation,2025-04-01,78,75,25769.89
+G023,Tarrant,Transportation,2025-05-01,77,75,14148.77
+G023,Tarrant,Transportation,2025-06-01,80,75,22796.86
+G023,Tarrant,Transportation,2025-07-01,70,75,25312.14
+G023,Tarrant,Transportation,2025-08-01,101,75,30889.15
+G023,Tarrant,Transportation,2025-09-01,79,75,18792.92
+G023,Tarrant,Transportation,2025-10-01,78,75,23366.58
+G023,Tarrant,Transportation,2025-11-01,79,75,13385.87
+G023,Tarrant,Transportation,2025-12-01,75,75,29289.35
+G024,Harris,Transportation,2025-01-01,88,75,24668.61
+G024,Harris,Transportation,2025-02-01,87,75,29559.03
+G024,Harris,Transportation,2025-03-01,86,75,33982.4
+G024,Harris,Transportation,2025-04-01,94,75,30389.62
+G024,Harris,Transportation,2025-05-01,79,75,14230.32
+G024,Harris,Transportation,2025-06-01,86,75,15378.56
+G024,Harris,Transportation,2025-07-01,78,75,26228.76
+G024,Harris,Transportation,2025-08-01,61,75,17117.13
+G024,Harris,Transportation,2025-09-01,84,75,20258.64
+G024,Harris,Transportation,2025-10-01,82,75,30442.47
+G024,Harris,Transportation,2025-11-01,81,75,20340.83
+G024,Harris,Transportation,2025-12-01,82,75,23337.23
+G025,Harris,Financial Assistance,2025-01-01,84,75,23523.53
+G025,Harris,Financial Assistance,2025-02-01,78,75,19841.37
+G025,Harris,Financial Assistance,2025-03-01,77,75,12898.07
+G025,Harris,Financial Assistance,2025-04-01,65,75,17546.45
+G025,Harris,Financial Assistance,2025-05-01,82,75,20464.89
+G025,Harris,Financial Assistance,2025-06-01,66,75,18521.57
+G025,Harris,Financial Assistance,2025-07-01,86,75,22947.18
+G025,Harris,Financial Assistance,2025-08-01,74,75,24337.74
+G025,Harris,Financial Assistance,2025-09-01,82,75,30961.95
+G025,Harris,Financial Assistance,2025-10-01,59,75,14626.54
+G025,Harris,Financial Assistance,2025-11-01,89,75,26445.33
+G025,Harris,Financial Assistance,2025-12-01,83,75,32975.59
+G026,Bexar,Transportation,2025-01-01,87,75,21784.37
+G026,Bexar,Transportation,2025-02-01,90,75,32189.46
+G026,Bexar,Transportation,2025-03-01,68,75,16729.54
+G026,Bexar,Transportation,2025-04-01,83,75,23203.9
+G026,Bexar,Transportation,2025-05-01,82,75,17634.78
+G026,Bexar,Transportation,2025-06-01,80,75,31926.72
+G026,Bexar,Transportation,2025-07-01,93,75,28433.29
+G026,Bexar,Transportation,2025-08-01,87,75,32514.54
+G026,Bexar,Transportation,2025-09-01,91,75,22549.11
+G026,Bexar,Transportation,2025-10-01,74,75,11920.97
+G026,Bexar,Transportation,2025-11-01,91,75,21135.92
+G026,Bexar,Transportation,2025-12-01,97,75,21373.73
+G027,Bexar,Mental Health,2025-01-01,73,75,23646.79
+G027,Bexar,Mental Health,2025-02-01,60,75,23431.83
+G027,Bexar,Mental Health,2025-03-01,67,75,26657.21
+G027,Bexar,Mental Health,2025-04-01,80,75,23426.38
+G027,Bexar,Mental Health,2025-05-01,84,75,30754.35
+G027,Bexar,Mental Health,2025-06-01,86,75,31565.46
+G027,Bexar,Mental Health,2025-07-01,73,75,13877.3
+G027,Bexar,Mental Health,2025-08-01,75,75,28689.19
+G027,Bexar,Mental Health,2025-09-01,67,75,13219.46
+G027,Bexar,Mental Health,2025-10-01,79,75,11951.62
+G027,Bexar,Mental Health,2025-11-01,89,75,33568.6
+G027,Bexar,Mental Health,2025-12-01,87,75,17250.64
+G028,Dallas,Financial Assistance,2025-01-01,65,75,18847.47
+G028,Dallas,Financial Assistance,2025-02-01,67,75,10201.96
+G028,Dallas,Financial Assistance,2025-03-01,89,75,19654.38
+G028,Dallas,Financial Assistance,2025-04-01,90,75,17538.69
+G028,Dallas,Financial Assistance,2025-05-01,87,75,16829.14
+G028,Dallas,Financial Assistance,2025-06-01,70,75,22900.01
+G028,Dallas,Financial Assistance,2025-07-01,79,75,13325.21
+G028,Dallas,Financial Assistance,2025-08-01,85,75,26510.94
+G028,Dallas,Financial Assistance,2025-09-01,82,75,13645.34
+G028,Dallas,Financial Assistance,2025-10-01,89,75,31567.98
+G028,Dallas,Financial Assistance,2025-11-01,73,75,13850.62
+G028,Dallas,Financial Assistance,2025-12-01,79,75,13868.32
+G029,Tarrant,Mental Health,2025-01-01,91,75,32439.7
+G029,Tarrant,Mental Health,2025-02-01,74,75,25397.22
+G029,Tarrant,Mental Health,2025-03-01,72,75,26424.98
+G029,Tarrant,Mental Health,2025-04-01,104,75,34613.02
+G029,Tarrant,Mental Health,2025-05-01,94,75,36766.23
+G029,Tarrant,Mental Health,2025-06-01,87,75,19834.96
+G029,Tarrant,Mental Health,2025-07-01,75,75,25234.44
+G029,Tarrant,Mental Health,2025-08-01,86,75,23037.95
+G029,Tarrant,Mental Health,2025-09-01,81,75,16274.95
+G029,Tarrant,Mental Health,2025-10-01,66,75,17385.94
+G029,Tarrant,Mental Health,2025-11-01,81,75,28285.16
+G029,Tarrant,Mental Health,2025-12-01,74,75,28998.96
+G030,Tarrant,Mental Health,2025-01-01,71,75,10671.87
+G030,Tarrant,Mental Health,2025-02-01,83,75,17586.45
+G030,Tarrant,Mental Health,2025-03-01,81,75,15406.72
+G030,Tarrant,Mental Health,2025-04-01,84,75,24995.54
+G030,Tarrant,Mental Health,2025-05-01,69,75,22087.88
+G030,Tarrant,Mental Health,2025-06-01,77,75,25446.34
+G030,Tarrant,Mental Health,2025-07-01,84,75,32605.62
+G030,Tarrant,Mental Health,2025-08-01,94,75,31705.3
+G030,Tarrant,Mental Health,2025-09-01,69,75,20198.1
+G030,Tarrant,Mental Health,2025-10-01,72,75,24764.49
+G030,Tarrant,Mental Health,2025-11-01,98,75,27788.93
+G030,Tarrant,Mental Health,2025-12-01,92,75,32763.82
+G031,Bexar,Financial Assistance,2025-01-01,76,75,29971.86
+G031,Bexar,Financial Assistance,2025-02-01,71,75,25230.57
+G031,Bexar,Financial Assistance,2025-03-01,100,75,37405.53
+G031,Bexar,Financial Assistance,2025-04-01,82,75,24865.36
+G031,Bexar,Financial Assistance,2025-05-01,99,75,34239.71
+G031,Bexar,Financial Assistance,2025-06-01,83,75,26162.02
+G031,Bexar,Financial Assistance,2025-07-01,81,75,28022.61
+G031,Bexar,Financial Assistance,2025-08-01,79,75,15088.99
+G031,Bexar,Financial Assistance,2025-09-01,78,75,23268.93
+G031,Bexar,Financial Assistance,2025-10-01,84,75,25530.58
+G031,Bexar,Financial Assistance,2025-11-01,75,75,25205.23
+G031,Bexar,Financial Assistance,2025-12-01,92,75,14804.22
+G032,Tarrant,Transportation,2025-01-01,70,75,21932.1
+G032,Tarrant,Transportation,2025-02-01,75,75,20498.94
+G032,Tarrant,Transportation,2025-03-01,65,75,13334.12
+G032,Tarrant,Transportation,2025-04-01,78,75,28088.82
+G032,Tarrant,Transportation,2025-05-01,78,75,23960.91
+G032,Tarrant,Transportation,2025-06-01,86,75,23754.16
+G032,Tarrant,Transportation,2025-07-01,81,75,24058.18
+G032,Tarrant,Transportation,2025-08-01,83,75,28903.84
+G032,Tarrant,Transportation,2025-09-01,74,75,18201.17
+G032,Tarrant,Transportation,2025-10-01,79,75,16506.89
+G032,Tarrant,Transportation,2025-11-01,88,75,26440.82
+G032,Tarrant,Transportation,2025-12-01,83,75,23086.77
+G033,Tarrant,Mental Health,2025-01-01,78,75,20224.73
+G033,Tarrant,Mental Health,2025-02-01,66,75,19683.15
+G033,Tarrant,Mental Health,2025-03-01,82,75,14252.86
+G033,Tarrant,Mental Health,2025-04-01,84,75,20979.96
+G033,Tarrant,Mental Health,2025-05-01,91,75,27036.39
+G033,Tarrant,Mental Health,2025-06-01,83,75,17368.33
+G033,Tarrant,Mental Health,2025-07-01,78,75,20451.16
+G033,Tarrant,Mental Health,2025-08-01,84,75,22038.11
+G033,Tarrant,Mental Health,2025-09-01,82,75,17476.82
+G033,Tarrant,Mental Health,2025-10-01,76,75,22905.22
+G033,Tarrant,Mental Health,2025-11-01,76,75,26254.02
+G033,Tarrant,Mental Health,2025-12-01,86,75,31480.65
+G034,Harris,Financial Assistance,2025-01-01,81,75,12842.3
+G034,Harris,Financial Assistance,2025-02-01,72,75,22320.05
+G034,Harris,Financial Assistance,2025-03-01,72,75,12394.0
+G034,Harris,Financial Assistance,2025-04-01,67,75,21577.48
+G034,Harris,Financial Assistance,2025-05-01,77,75,24754.88
+G034,Harris,Financial Assistance,2025-06-01,73,75,17203.43
+G034,Harris,Financial Assistance,2025-07-01,81,75,14837.47
+G034,Harris,Financial Assistance,2025-08-01,86,75,16949.51
+G034,Harris,Financial Assistance,2025-09-01,86,75,17943.07
+G034,Harris,Financial Assistance,2025-10-01,104,75,32802.44
+G034,Harris,Financial Assistance,2025-11-01,87,75,30352.35
+G034,Harris,Financial Assistance,2025-12-01,95,75,36595.79
+G035,Bexar,Mental Health,2025-01-01,90,75,26486.67
+G035,Bexar,Mental Health,2025-02-01,76,75,22894.12
+G035,Bexar,Mental Health,2025-03-01,75,75,29875.07
+G035,Bexar,Mental Health,2025-04-01,87,75,19328.91
+G035,Bexar,Mental Health,2025-05-01,67,75,22866.95
+G035,Bexar,Mental Health,2025-06-01,96,75,36033.02
+G035,Bexar,Mental Health,2025-07-01,92,75,33784.71
+G035,Bexar,Mental Health,2025-08-01,77,75,24044.69
+G035,Bexar,Mental Health,2025-09-01,75,75,22684.35
+G035,Bexar,Mental Health,2025-10-01,82,75,23544.24
+G035,Bexar,Mental Health,2025-11-01,82,75,21410.6
+G035,Bexar,Mental Health,2025-12-01,70,75,23788.53
+G036,Travis,Mental Health,2025-01-01,80,75,31029.57
+G036,Travis,Mental Health,2025-02-01,89,75,16665.07
+G036,Travis,Mental Health,2025-03-01,81,75,21803.08
+G036,Travis,Mental Health,2025-04-01,77,75,25927.36
+G036,Travis,Mental Health,2025-05-01,86,75,30581.46
+G036,Travis,Mental Health,2025-06-01,78,75,13089.97
+G036,Travis,Mental Health,2025-07-01,101,75,24746.88
+G036,Travis,Mental Health,2025-08-01,71,75,14103.41
+G036,Travis,Mental Health,2025-09-01,70,75,19653.98
+G036,Travis,Mental Health,2025-10-01,84,75,23777.46
+G036,Travis,Mental Health,2025-11-01,82,75,27011.53
+G036,Travis,Mental Health,2025-12-01,89,75,16091.7
+G037,Bexar,Mental Health,2025-01-01,91,75,17849.31
+G037,Bexar,Mental Health,2025-02-01,74,75,14526.73
+G037,Bexar,Mental Health,2025-03-01,95,75,16317.18
+G037,Bexar,Mental Health,2025-04-01,89,75,25064.61
+G037,Bexar,Mental Health,2025-05-01,67,75,20736.25
+G037,Bexar,Mental Health,2025-06-01,80,75,27874.88
+G037,Bexar,Mental Health,2025-07-01,84,75,20176.22
+G037,Bexar,Mental Health,2025-08-01,94,75,27180.97
+G037,Bexar,Mental Health,2025-09-01,73,75,24308.23
+G037,Bexar,Mental Health,2025-10-01,91,75,32066.81
+G037,Bexar,Mental Health,2025-11-01,87,75,22270.8
+G037,Bexar,Mental Health,2025-12-01,69,75,25344.73
+G038,Travis,Mental Health,2025-01-01,79,75,15374.31
+G038,Travis,Mental Health,2025-02-01,75,75,15115.99
+G038,Travis,Mental Health,2025-03-01,84,75,25872.33
+G038,Travis,Mental Health,2025-04-01,62,75,13555.37
+G038,Travis,Mental Health,2025-05-01,82,75,21375.7
+G038,Travis,Mental Health,2025-06-01,79,75,12162.47
+G038,Travis,Mental Health,2025-07-01,76,75,22861.17
+G038,Travis,Mental Health,2025-08-01,76,75,26079.83
+G038,Travis,Mental Health,2025-09-01,73,75,21822.45
+G038,Travis,Mental Health,2025-10-01,77,75,18163.54
+G038,Travis,Mental Health,2025-11-01,83,75,29711.16
+G038,Travis,Mental Health,2025-12-01,84,75,26043.53
+G039,Harris,Transportation,2025-01-01,74,75,23682.44
+G039,Harris,Transportation,2025-02-01,72,75,14225.85
+G039,Harris,Transportation,2025-03-01,60,75,14444.16
+G039,Harris,Transportation,2025-04-01,75,75,12914.39
+G039,Harris,Transportation,2025-05-01,87,75,21956.14
+G039,Harris,Transportation,2025-06-01,78,75,11724.12
+G039,Harris,Transportation,2025-07-01,79,75,14216.62
+G039,Harris,Transportation,2025-08-01,110,75,36772.46
+G039,Harris,Transportation,2025-09-01,87,75,27656.4
+G039,Harris,Transportation,2025-10-01,66,75,22900.38
+G039,Harris,Transportation,2025-11-01,91,75,25180.57
+G039,Harris,Transportation,2025-12-01,70,75,12558.86
+G040,Dallas,Mental Health,2025-01-01,72,75,17656.37
+G040,Dallas,Mental Health,2025-02-01,76,75,21084.76
+G040,Dallas,Mental Health,2025-03-01,90,75,34703.71
+G040,Dallas,Mental Health,2025-04-01,92,75,31884.35
+G040,Dallas,Mental Health,2025-05-01,82,75,20316.38
+G040,Dallas,Mental Health,2025-06-01,80,75,22794.65
+G040,Dallas,Mental Health,2025-07-01,83,75,23498.98
+G040,Dallas,Mental Health,2025-08-01,86,75,17457.62
+G040,Dallas,Mental Health,2025-09-01,89,75,13859.39
+G040,Dallas,Mental Health,2025-10-01,69,75,26863.82
+G040,Dallas,Mental Health,2025-11-01,82,75,24090.85
+G040,Dallas,Mental Health,2025-12-01,79,75,23825.83
+G041,Tarrant,Mental Health,2025-01-01,69,75,24655.98
+G041,Tarrant,Mental Health,2025-02-01,75,75,26722.51
+G041,Tarrant,Mental Health,2025-03-01,84,75,22642.91
+G041,Tarrant,Mental Health,2025-04-01,80,75,13599.31
+G041,Tarrant,Mental Health,2025-05-01,88,75,26274.4
+G041,Tarrant,Mental Health,2025-06-01,97,75,21285.5
+G041,Tarrant,Mental Health,2025-07-01,91,75,14052.4
+G041,Tarrant,Mental Health,2025-08-01,83,75,20469.06
+G041,Tarrant,Mental Health,2025-09-01,82,75,16640.98
+G041,Tarrant,Mental Health,2025-10-01,80,75,24389.96
+G041,Tarrant,Mental Health,2025-11-01,74,75,14257.3
+G041,Tarrant,Mental Health,2025-12-01,64,75,13846.2
+G042,Harris,Mental Health,2025-01-01,70,75,21315.9
+G042,Harris,Mental Health,2025-02-01,83,75,17277.39
+G042,Harris,Mental Health,2025-03-01,72,75,22603.03
+G042,Harris,Mental Health,2025-04-01,91,75,31670.13
+G042,Harris,Mental Health,2025-05-01,77,75,18369.05
+G042,Harris,Mental Health,2025-06-01,81,75,15731.96
+G042,Harris,Mental Health,2025-07-01,77,75,16335.17
+G042,Harris,Mental Health,2025-08-01,68,75,23635.74
+G042,Harris,Mental Health,2025-09-01,82,75,16188.74
+G042,Harris,Mental Health,2025-10-01,83,75,29761.79
+G042,Harris,Mental Health,2025-11-01,83,75,13790.8
+G042,Harris,Mental Health,2025-12-01,58,75,12554.84
+G043,Tarrant,Transportation,2025-01-01,84,75,18186.4
+G043,Tarrant,Transportation,2025-02-01,69,75,25265.39
+G043,Tarrant,Transportation,2025-03-01,73,75,25745.02
+G043,Tarrant,Transportation,2025-04-01,83,75,20592.17
+G043,Tarrant,Transportation,2025-05-01,102,75,17904.81
+G043,Tarrant,Transportation,2025-06-01,89,75,19565.93
+G043,Tarrant,Transportation,2025-07-01,97,75,33493.38
+G043,Tarrant,Transportation,2025-08-01,90,75,22192.85
+G043,Tarrant,Transportation,2025-09-01,79,75,29415.47
+G043,Tarrant,Transportation,2025-10-01,79,75,13937.45
+G043,Tarrant,Transportation,2025-11-01,59,75,19856.56
+G043,Tarrant,Transportation,2025-12-01,84,75,14812.72
+G044,Dallas,Mental Health,2025-01-01,77,75,30638.08
+G044,Dallas,Mental Health,2025-02-01,88,75,22266.88
+G044,Dallas,Mental Health,2025-03-01,81,75,13541.43
+G044,Dallas,Mental Health,2025-04-01,78,75,21735.82
+G044,Dallas,Mental Health,2025-05-01,93,75,19247.34
+G044,Dallas,Mental Health,2025-06-01,73,75,28466.83
+G044,Dallas,Mental Health,2025-07-01,79,75,18213.76
+G044,Dallas,Mental Health,2025-08-01,68,75,12137.26
+G044,Dallas,Mental Health,2025-09-01,80,75,22415.36
+G044,Dallas,Mental Health,2025-10-01,83,75,13357.51
+G044,Dallas,Mental Health,2025-11-01,67,75,11641.45
+G044,Dallas,Mental Health,2025-12-01,77,75,19031.57
+G045,Dallas,Mental Health,2025-01-01,70,75,26745.56
+G045,Dallas,Mental Health,2025-02-01,85,75,13020.19
+G045,Dallas,Mental Health,2025-03-01,75,75,16095.59
+G045,Dallas,Mental Health,2025-04-01,81,75,16626.53
+G045,Dallas,Mental Health,2025-05-01,81,75,13240.63
+G045,Dallas,Mental Health,2025-06-01,75,75,16299.96
+G045,Dallas,Mental Health,2025-07-01,81,75,14335.86
+G045,Dallas,Mental Health,2025-08-01,85,75,33259.01
+G045,Dallas,Mental Health,2025-09-01,80,75,18847.67
+G045,Dallas,Mental Health,2025-10-01,78,75,26196.76
+G045,Dallas,Mental Health,2025-11-01,83,75,15595.06
+G045,Dallas,Mental Health,2025-12-01,66,75,24372.78
+G046,Harris,Transportation,2025-01-01,78,75,22581.83
+G046,Harris,Transportation,2025-02-01,89,75,32962.28
+G046,Harris,Transportation,2025-03-01,74,75,27376.6
+G046,Harris,Transportation,2025-04-01,84,75,28189.31
+G046,Harris,Transportation,2025-05-01,89,75,28655.42
+G046,Harris,Transportation,2025-06-01,77,75,21640.06
+G046,Harris,Transportation,2025-07-01,90,75,30364.77
+G046,Harris,Transportation,2025-08-01,87,75,29498.76
+G046,Harris,Transportation,2025-09-01,90,75,24796.13
+G046,Harris,Transportation,2025-10-01,68,75,21137.21
+G046,Harris,Transportation,2025-11-01,88,75,16232.1
+G046,Harris,Transportation,2025-12-01,84,75,16345.82
+G047,Dallas,Transportation,2025-01-01,71,75,17791.31
+G047,Dallas,Transportation,2025-02-01,92,75,30438.31
+G047,Dallas,Transportation,2025-03-01,67,75,21824.3
+G047,Dallas,Transportation,2025-04-01,60,75,17990.53
+G047,Dallas,Transportation,2025-05-01,83,75,19133.74
+G047,Dallas,Transportation,2025-06-01,84,75,27203.73
+G047,Dallas,Transportation,2025-07-01,72,75,20165.34
+G047,Dallas,Transportation,2025-08-01,77,75,25708.48
+G047,Dallas,Transportation,2025-09-01,73,75,12091.4
+G047,Dallas,Transportation,2025-10-01,89,75,29672.95
+G047,Dallas,Transportation,2025-11-01,75,75,23204.12
+G047,Dallas,Transportation,2025-12-01,80,75,25718.23
+G048,Travis,Transportation,2025-01-01,71,75,28038.73
+G048,Travis,Transportation,2025-02-01,70,75,20751.68
+G048,Travis,Transportation,2025-03-01,82,75,31357.15
+G048,Travis,Transportation,2025-04-01,88,75,31960.02
+G048,Travis,Transportation,2025-05-01,72,75,19111.19
+G048,Travis,Transportation,2025-06-01,79,75,30362.73
+G048,Travis,Transportation,2025-07-01,86,75,13971.6
+G048,Travis,Transportation,2025-08-01,88,75,14460.17
+G048,Travis,Transportation,2025-09-01,72,75,17979.05
+G048,Travis,Transportation,2025-10-01,96,75,14721.66
+G048,Travis,Transportation,2025-11-01,74,75,11771.32
+G048,Travis,Transportation,2025-12-01,74,75,25661.84
+G049,Dallas,Mental Health,2025-01-01,78,75,16928.71
+G049,Dallas,Mental Health,2025-02-01,70,75,11313.76
+G049,Dallas,Mental Health,2025-03-01,83,75,19627.85
+G049,Dallas,Mental Health,2025-04-01,75,75,12870.46
+G049,Dallas,Mental Health,2025-05-01,73,75,20956.85
+G049,Dallas,Mental Health,2025-06-01,68,75,16888.61
+G049,Dallas,Mental Health,2025-07-01,90,75,27549.57
+G049,Dallas,Mental Health,2025-08-01,69,75,13648.04
+G049,Dallas,Mental Health,2025-09-01,76,75,29393.68
+G049,Dallas,Mental Health,2025-10-01,106,75,16483.93
+G049,Dallas,Mental Health,2025-11-01,86,75,14810.07
+G049,Dallas,Mental Health,2025-12-01,85,75,33585.98
+G050,Tarrant,Transportation,2025-01-01,72,75,20565.82
+G050,Tarrant,Transportation,2025-02-01,88,75,26683.8
+G050,Tarrant,Transportation,2025-03-01,72,75,18515.35
+G050,Tarrant,Transportation,2025-04-01,69,75,14077.56
+G050,Tarrant,Transportation,2025-05-01,66,75,17492.68
+G050,Tarrant,Transportation,2025-06-01,87,75,30166.6
+G050,Tarrant,Transportation,2025-07-01,67,75,26432.54
+G050,Tarrant,Transportation,2025-08-01,88,75,20675.1
+G050,Tarrant,Transportation,2025-09-01,92,75,31243.78
+G050,Tarrant,Transportation,2025-10-01,87,75,15796.02
+G050,Tarrant,Transportation,2025-11-01,84,75,17965.36
+G050,Tarrant,Transportation,2025-12-01,99,75,33430.56
