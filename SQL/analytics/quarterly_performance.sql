@@ -1,3 +1,5 @@
+--Quarterly Aggregation View--
+
 CREATE OR REPLACE VIEW `driiiportfolio.tvc_grants.quarterly_performance` AS
 SELECT
   grantee_id,
